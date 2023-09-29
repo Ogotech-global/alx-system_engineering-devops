@@ -1,2 +1,2 @@
 #!/bin/bash
-ui -un
+id -un
